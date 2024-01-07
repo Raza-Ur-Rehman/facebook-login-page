@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:#F0F2F5;
+}
+.text-box{
+    margin-top: 200px;
+    margin-left: 150px;
+
+}
+h1{
+    font-size: 55px;
+    color: #1877f2;
+    font-family: sans-serif;
+    padding: 112px 0 16px;
+    display: inline;
+}
+h2{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-bottom: 10PX;
+    display: inline;
+}
+.container{
+    background-color: #ffff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    padding-top:10px;
+    padding-bottom: 24px;
+    width: 396px;
+    height: 350px;
+    float: right;
+    margin-top: 10px;
+    margin-right:140px;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+.text{
+    background: #ffff;
+    border: 1px solid #dddfe2;
+    font-family: Helvetica, Arial, sans-serif;
+    height: 22px;
+    padding: 14px 16px;
+    vertical-align: middle;
+    font-size: 17px;
+    width: 330px;
+    border-radius: 6px;
+
+}
+
+.password{
+    background: #ffff;
+    color:;
+    
+    
+    height: 22px;
+    line-height: 16px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin-top: px;
+
+}
+.forget-link{
+    padding-top: 2px;
+    padding-bottom: 4px ;
+}
+.btn1{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+    margin: 20px;
+}
+.login-btn:hover{
+    background-color: #166fe5;
+}
